@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @FENGYU-008
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Majoring in Computer Science
+- 🌱 I’m currently learning SpringBoot
+- 📝 Use Java,Python,C++ for backend
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FENGYU-008&layout=compact)](https://github.com/FENGYU-008/github-readme-stats)
 
 <!---
 FENGYU-008/FENGYU-008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
